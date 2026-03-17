@@ -165,4 +165,12 @@ header .text-container{
     header{
         margin-top: 0;
     }
+  .cta-button{
+        padding: 0.5em 1em;
+        font-size: 0.9rem;
+    }
+    .secondary-button{
+        padding: 0.5em 1em;
+        font-size: 0.9rem;
+    }
 }
