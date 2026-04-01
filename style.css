@@ -181,4 +181,11 @@ header .text-container{
             display: block;
             margin: 0 auto;
         }
-}
+    section[id="header"].flex-container img{
+           width: 100%;
+            max-width: 300px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+  }  
