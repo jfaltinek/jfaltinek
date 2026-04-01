@@ -174,4 +174,9 @@ header .text-container{
         padding: 0.5em 1em;
         font-size: 0.9rem;
     }
+      section[id="about"]{
+        img {
+            width: 80%;
+        }
+    }
 }
