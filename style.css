@@ -176,7 +176,8 @@ header .text-container{
     }
       section[id="about"]{
         img {
-            width: 400px;
+            width: 250px;
+            height: auto;
         }
     }
 }
