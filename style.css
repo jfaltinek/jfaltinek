@@ -168,16 +168,17 @@ header .text-container{
   .cta-button{
         padding: 0.5em 1em;
         font-size: 0.9rem;
-        margin-bottom: 0.5em
+        margin-bottom: 0.5em;
     }
     .secondary-button{
         padding: 0.5em 1em;
         font-size: 0.9rem;
     }
-      section[id="about"]{
-        img {
-            width: 200px;
-            height: 275px;
+      section[id="about"] img {
+            width: 100%;
+            max-width: 200px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
         }
-    }
 }
